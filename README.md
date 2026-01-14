@@ -89,12 +89,11 @@
 </p>
 
 ---
+### 📊 As Minhas Estatísticas
 
-### 📊 GitHub Stats
+![Stats de forreca05](https://github-readme-stats-azure-five-24.vercel.app/api?username=forreca05&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=forreca05&layout=compact)
+![Linguagens de forreca05](https://github-readme-stats-azure-five-24.vercel.app/api/top-langs?username=forreca05&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forreca05&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=forreca05)
+![Streak](https://streak-stats.demolab.com?user=forreca05&theme=radical)
 
