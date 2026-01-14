@@ -89,11 +89,18 @@
 </p>
 
 ---
-### 📊 As Minhas Estatísticas
+### 📊 GitHub Analytics
 
-![Stats de forreca05](https://github-readme-stats-azure-five-24.vercel.app/api?username=forreca05&show_icons=true&theme=radical)
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-azure-five-24.vercel.app/api?username=forreca05&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-azure-five-24.vercel.app/api/top-langs?username=forreca05&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Linguagens de forreca05](https://github-readme-stats-azure-five-24.vercel.app/api/top-langs?username=forreca05&layout=compact&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=forreca05&theme=radical)
-
+<p align="center">
+  <img src="
