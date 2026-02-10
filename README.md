@@ -19,6 +19,13 @@
 - 📫 How to reach me: **joaopedronf6b@gmail.com**
 - ⚡ Fun fact: **I am passionate about sports, especially F1, football and cycling**
 
+- ---
+
+### 🌐 My Own Portfolio
+
+You can explore my personal portfolio here:  
+👉 **https://joaopedronf.com**
+
 ---
 
 <h3 align="left">Connect with me:</h3>
