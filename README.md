@@ -3,100 +3,83 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm João Ferreira</h1>
-<h3 align="center">An ambitious student from Portugal, driven by a passion for learning and growth.</h3>
+<h3 align="center">Computer Science & Engineering Student @ FEUP </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=forreca05&label=Profile%20views&color=0e75b6&style=flat" alt="forreca05" />
-</p>
+---
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=forreca05" alt="forreca05" />
-  </a>
-</p>
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Informatics Engineering at FEUP**
-- 📫 How to reach me: **joaopedronf6b@gmail.com**
-- ⚡ Fun fact: **I am passionate about sports, especially F1, football and cycling**
+I am a Computer Science student at FEUP with a strong focus on **AI-driven systems, backend development, and clean software architecture**.
 
-- ---
+In 2025, I developed an automatic code documentation system using **CrewAI and Large Language Models** during my internship at Consulteer.  
+I also served as a **Teaching Assistant for Software Design and Testing (LDTS)**, supporting second-year students in Java, debugging, and software engineering best practices.
 
-### 🌐 My Own Portfolio
+🎓 Fundação Calouste Gulbenkian Scholar  
+🌍 Erasmus+ BIP – IoT & 3D Printing (University of Novi Sad)  
+👨‍💻 ACM FEUP Member  
 
-You can explore my personal portfolio here:  
+---
+
+## 🌐 Portfolio
+
+I document my projects and technical work here:
+
 👉 **https://joaopedronf.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/joão-ferreira-9a31222b9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/joao.ferreira.2005" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/forreca05" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40"/>
   </a>
+</p>
+
+📫 joaopedronf6b@gmail.com
+
+---
+
+## 🛠 Languages & Tools
+
+### 💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+### 🧩 Backend & Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+</p>
+
+### ⚙️ Systems & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40"/>
+</p>
+
+### 🤖 AI & Other Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
----
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <table border="0">
   <tr>
@@ -108,6 +91,3 @@ You can explore my personal portfolio here:
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="
